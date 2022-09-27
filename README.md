@@ -9,3 +9,6 @@ TOKEN = API токен бота
  - Указать API TOKEN боты в переменной окружения
  - docker build -t pdfbot ./
  - docker run -d --restart allways pdfbot
+
+Рабочую версию бота можно посмотреть  - t.me/from_pdf_to_audio_bot.
+Бот развернут в Docker контейнере на AWS.
