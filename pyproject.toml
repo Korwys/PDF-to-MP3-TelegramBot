@@ -3,8 +3,7 @@ name = "telegram-mp3"
 version = "0.1.0"
 description = ""
 authors = ["Koryws <sidorenkodk@gmail.com>"]
-readme = "README.md"
-packages = [{include = "telegram_mp3"}]
+
 
 [tool.poetry.dependencies]
 python = "^3.10"

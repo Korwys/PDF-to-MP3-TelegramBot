@@ -3,9 +3,6 @@ import os
 from aiogram import Bot, Dispatcher
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import StatesGroup, State
-from dotenv import load_dotenv
-
-load_dotenv()
 
 token = os.getenv("TOKEN")
 
