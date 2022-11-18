@@ -10,5 +10,5 @@ TOKEN = API токен бота
  - docker build -t pdfbot ./
  - docker run -d --restart always pdfbot
 
-Рабочую версию бота можно посмотреть  - t.me/from_pdf_to_audio_bot.
+Рабочую версию бота можно посмотреть  - https://t.me/from_pdf_to_audio_bot
 
